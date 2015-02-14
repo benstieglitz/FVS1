@@ -1,0 +1,7 @@
+c:\svn\FVS\FVS\FVS\bin\FVS.dll
+c:\svn\FVS\FVS\FVS\bin\FVS.pdb
+c:\svn\FVS\FVS\FVS\bin\EntityFramework.dll
+c:\svn\FVS\FVS\FVS\bin\EntityFramework.xml
+c:\svn\FVS\FVS\FVS\obj\Debug\FVS.csprojResolveAssemblyReference.cache
+c:\svn\FVS\FVS\FVS\obj\Debug\FVS.dll
+c:\svn\FVS\FVS\FVS\obj\Debug\FVS.pdb
